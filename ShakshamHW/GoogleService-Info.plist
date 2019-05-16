@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>200839327123-i8d7mik2bp2b2ccr17m3m0rkv9vc8shv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.200839327123-i8d7mik2bp2b2ccr17m3m0rkv9vc8shv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGKMa9fxHUs_koMBJ9jWZUNhXdDKfGYTs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>200839327123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>learnit.ShakshamHW</string>
+	<key>PROJECT_ID</key>
+	<string>shaksham-37f11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shaksham-37f11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:200839327123:ios:3e07f20728b2e77c</string>
+	<key>DATABASE_URL</key>
+	<string>https://shaksham-37f11.firebaseio.com</string>
+</dict>
+</plist>
